@@ -19,4 +19,4 @@ class Application
 
 $app1 = Application::getInstance();
 $app2 = Application::getInstance();
-//$app3 = new Application();
+
